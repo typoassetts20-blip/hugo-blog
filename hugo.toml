@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://hugo-blog-6le.pages.dev/"
 languageCode = "ja-JP"
 title = "Typo職人の文化資産庫"
 theme = "hugo-PaperMod"
