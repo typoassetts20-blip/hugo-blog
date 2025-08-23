@@ -1,0 +1,19 @@
+baseURL = "https://example.com/"
+languageCode = "ja-JP"
+title = "Typo職人の文化資産庫"
+theme = "hugo-PaperMod"
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Parts"
+    url = "/parts/"
+    weight = 20
+  [[menu.main]]
+    name = "Terms"
+    url = "/terms/"
+    weight = 30
+[params]
+  defaultTheme = "auto"
