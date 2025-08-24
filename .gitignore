@@ -1,2 +1,3 @@
 # Hugo build output (excluded from Git)
 public/
+.hugo_build.lock

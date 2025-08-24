@@ -17,3 +17,9 @@ theme = "hugo-PaperMod"
     weight = 30
 [params]
   defaultTheme = "auto"
+  mainSections = ["posts"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
