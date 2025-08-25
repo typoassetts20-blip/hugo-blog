@@ -18,7 +18,7 @@ googleAnalytics = "G-RLG3LK7VRJ"
     weight = 30
 [params]
   defaultTheme = "auto"
-  mainSections = ["posts"]
+  mainSections = ["posts","parts"]
 
 [markup]
   [markup.goldmark]
